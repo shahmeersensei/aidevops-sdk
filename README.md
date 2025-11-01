@@ -1,5 +1,7 @@
-# 🤖 AI DevOps SDK
+# AI DevOps SDK 
 
+<img width="1280" height="600" alt="Generated Image November 01, 2025 - 6_17PM 2" src="https://github.com/user-attachments/assets/8d250ecf-a46e-47c2-8183-b4c0117942dd" />
+ 
 **AI-powered DevOps automation toolkit for the next generation of engineers.**
 
 `aidevops-sdk` is an open-source project that transforms traditional DevOps into an **agentic, AI-driven workflow**.  
